@@ -1,4 +1,4 @@
-# Node modules (não subir a pasta com dependências)
+# Node modules
 node_modules/
 
 # Arquivos de ambiente com dados sensíveis (ex: senhas, URIs)

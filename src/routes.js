@@ -1,7 +1,7 @@
 import express from 'express';
 import User from './models/User.js';
 import { validate } from './middleware/validate.js';
-import { userSch } from './validators/userValidator';
+import { userSch } from './validators/userValidator.js';
 
 const router = express.Router()
 
