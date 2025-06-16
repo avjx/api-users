@@ -30,8 +30,5 @@ temp/
 # Cobertura de testes
 coverage/
 
-# Arquivos gerados por npm
-package-lock.json
-
 # Arquivos do Docker (se usar)
 docker-compose.override.yml
